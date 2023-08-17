@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F6F4EB;
+    font-family: Helvetica, sans-serif;
+
+}
+
+body > * {
+    max-width: 600px;
+}
+
+.main-title{
+    color: #91C8E4;
+}
+
+.list-recipe,
+.recipe,
+.ingredientes{
+    color: #749BC2;
+}
+
+.list{
+    color: #4682A9 ;
+}
+
+.descripcion{
+    color: #749BC2;
+}
